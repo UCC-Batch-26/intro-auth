@@ -1,0 +1,14 @@
+[
+  {
+    "email": "juandelacruz@gmail.com",
+    "password": "password1",
+    "name": "Juan Dela Cruz",
+    "role": "user"
+  },
+  {
+    "email": "narda@gmail.com",
+    "password": "password1",
+    "name": "Narda Custodio",
+    "role": "admin"
+  }
+]
